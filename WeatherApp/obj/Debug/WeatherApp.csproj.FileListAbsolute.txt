@@ -1,0 +1,10 @@
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\bin\Debug\WeatherApp.exe.config
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\bin\Debug\WeatherApp.exe
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\bin\Debug\WeatherApp.pdb
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.exe
+E:\ItStep\Network Programming\WeatherWidget\WeatherWidget\WeatherApp\obj\Debug\WeatherApp.pdb

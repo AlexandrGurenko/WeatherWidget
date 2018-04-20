@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:fh="http://purl.org/syndication/history/1.0"
+    xmlns:fa="http://purl.org/atompub/age/1.0">
+
+    <id>http://rp5.ua</id>
+    <title xml:lang="ru">Погода в Киеве, Украина</title>
+    <subtitle>Погода в Киеве, Украина. Погода на неделю в Киеве, Украина. Погода на день в Киеве, Украина.</subtitle>
+    <updated>2018-04-20T08:00:00+00:00</updated>
+    <link rel="self" href="http://rp5.ua/rss/509938/ru"/>
+    <author>
+        <name>RP5</name>
+        <email>support@rp5.ua</email>
+        <uri>http://rp5.ua/docs/about/ru</uri>
+    </author>
+    <generator>http://rp5.ua</generator>
+    <category xml:lang="ru" term="Погода"/>
+    <logo>http://rp5.ua/images/ru/logo.png</logo>
+    <rights xml:lang="ru">Copyright © ООО «Расписание Погоды», 2004-2018</rights>
+    <fh:incremental>false</fh:incremental>
+    <fa:max-age>10800000</fa:max-age>
+    <entry>
+      <id>http://rp5.ua/509938/ru#time_2018-04-20T08:00:00+00:00</id>
+      <updated>2018-04-20T08:00:00+00:00</updated>
+      <published>2018-04-20T08:00:00+00:00</published>
+      <category xml:lang="ru" term="Погода"/>
+      <title xml:lang="ru">В 11:00 в аэропорту (8 км)  было +14 °C</title>
+      <link href="http://rp5.ua/509938/ru"/>
+      <summary xml:lang="ru"> без существенной облачности, атмосферное давление в пределах нормы, свежий ветер (8 м/с), дующий с севера, порывы 13 м/с. В Киеве сегодня в 15:00 ожидается +16°C, без осадков, умеренный ветер.</summary>
+   </entry>
+</feed>
